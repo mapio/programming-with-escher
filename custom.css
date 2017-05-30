@@ -1,0 +1,7 @@
+#notebook-container {
+    -webkit-box-shadow: unset;
+    box-shadow: unset;
+}
+div.prompt.input_prompt {
+    display: none;
+}
